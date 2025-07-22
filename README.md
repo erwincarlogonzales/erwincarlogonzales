@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance+Strategy;Academic+%26+University+Professor;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance+Strategy;Academic+%26+Research+Professor;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
   </a>
 </p>
 
