@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Erwin Carlo Gonzales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm Carlo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,18 +16,22 @@
   </a>
 </p>
 
-I'm an engineer who builds intelligent systems, a finance professional who models their value, and an academic who demystifies how they work. My career is centered at the intersection of technology, business strategy, and education.
+I'm an engineer who builds AI systems, a finance bro who speaks `return on invested capital`, `discounted cashflow`, `EBITDA`, university professsor speaking in frameworks. My career is at the intersection of tech, profitability, and business frameworks.
 
-Think of it like a D&D character who multiclassed:
-* **The Engineer (My Core Class):** I specialize in the full AI/ML lifecycle, from data analysis and model training (PyTorch, YOLO) to MLOps (DVC, MLflow) and deployment on diverse platforms, from cloud servers to edge devices like the Jetson Nano.
-* **The Finance Strategist (My Subclass):** My background in corporate finance and financial engineering isn't just a line on a resume; it's the lens through which I view technology. I build financial models to justify projects, assess ROI, and ensure that technical solutions create tangible business value.
-* **The Academic (My Background):** As a university lecturer, I have a passion for simplifying complex topics. This forces me to understand concepts from first principles, a skill I apply to both my engineering and financial analysis.
+Like a multiclassed character:
+* **AI Engineer (My Core Class):** I specialize in the full end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, Tensorflow, YOLO) to MLOps (Data Version Ctrl, MLflow) and deployment on diverse platforms, from cloud servers to edge devices like the Jetson Nano.
+* **The Investment Banker (Subclass):** My background in corporate finance and financial engineering is the lens through which I view tech. I build financial models to justify projects, assess ROI, and ensure that technical solutions create tangible business value.
+* **The Academic (Background):** As a university professor, I have a passion for simplifying complex topics. This enables me to understand concepts from a foundational level, I apply to both my engineering and financial analysis.
 
 ---
 
 ### 📌 Pinned Projects Showcase
 
-Below are a few projects I've chosen to pin. They demonstrate my skills across the full stack of AI development, from edge computing to data analysis and visualization. Be sure to check them out!
+Below are a few projects I've chosen to pin. They demonstrate my skills across the full stack of AI development, from edge computing to data analysis and visualization.
+
+https://github.com/erwincarlogonzales/mldetection-YOLO
+https://github.com/erwincarlogonzales/mldetection_data_analysis
+https://github.com/erwincarlogonzales/mldetection-android-firebase
 
 ---
 
@@ -93,7 +97,7 @@ My toolkit is a blend of technologies for building intelligent systems and the f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erwincarlogonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" alt="erwincarlogonzales's GitHub Stats" />
+# <img src="https://github-readme-stats.vercel.app/api?username=erwincarlogonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" alt="erwincarlogonzales's GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=erwincarlogonzales&theme=tokyonight&hide_border=true" alt="erwincarlogonzales's GitHub Streak" />
 
