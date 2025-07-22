@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance+Strategy;Academic+%26+University+Lecturer;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance+Strategy;Academic+%26+University+Professor;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ I'm an engineer who builds AI systems, a finance professional who models their b
 Think of it like a multiclass character:
 * **AI Engineer (My Core Class):** I specialize in the complete end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, TensorFlow, YOLO) to MLOps (DVC, MLflow) and deployment across diverse platforms—from cloud servers to edge devices like Android and Jetson Nano.
 * **Investment Banker (My Subclass):** My background in corporate finance and financial engineering is the lens through which I view technology. I build Discounted Cashflow (DCF) models, calculate Return on Invested Capital (ROIC) and Net Present Value (NPV) to justify AI projects, and ensure technical solutions create measurable shareholder value through rigorous financial modeling. Basically, to answer the question `Ok, how much money are we looking to make here?`
-* **The Research Professor (My Background):** I publish peer-reviewed research with statistical rigor (p-values, effect sizes, confidence intervals), design controlled experiments, and translate complex AI/finance concepts into frameworks others can actually use and replicate.
+* **Research Professor (My Background):** I publish peer-reviewed research with statistical rigor (p-values, effect sizes, confidence intervals), design controlled experiments, and translate complex AI/finance concepts into frameworks others can actually use and replicate.
 
 ---
 
@@ -38,6 +38,8 @@ Think of it like a multiclass character:
   </a>
 </p>
 Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano), NLP, and more!
+
+---
 
 🛠️ My Tech & Domain Stack
 My toolkit blends technologies for building intelligent systems with the financial frameworks to validate their business impact.
@@ -94,6 +96,8 @@ My toolkit blends technologies for building intelligent systems with the financi
     </td>
   </tr>
 </table>
+
+---
 
 📊 My GitHub Stats
 <div align="center">
