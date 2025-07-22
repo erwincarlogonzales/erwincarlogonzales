@@ -18,7 +18,7 @@
 
 I'm an engineer who builds AI systems, a finance bro who speaks `return on invested capital`, `discounted cashflow`, `EBITDA`, university professsor speaking in frameworks. My career is at the intersection of tech, profitability, and business frameworks.
 
-Like a multiclassed character:
+Like a multiclass character:
 * **AI Engineer (My Core Class):** I specialize in the full end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, Tensorflow, YOLO) to MLOps (Data Version Ctrl, MLflow) and deployment on diverse platforms, from cloud servers to edge devices like the Jetson Nano.
 * **The Investment Banker (Subclass):** My background in corporate finance and financial engineering is the lens through which I view tech. I build financial models to justify projects, assess ROI, and ensure that technical solutions create tangible business value.
 * **The Academic (Background):** As a university professor, I have a passion for simplifying complex topics. This enables me to understand concepts from a foundational level, I apply to both my engineering and financial analysis.
@@ -97,7 +97,7 @@ My toolkit is a blend of technologies for building intelligent systems and the f
 
 <div align="center">
 
-# <img src="https://github-readme-stats.vercel.app/api?username=erwincarlogonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" alt="erwincarlogonzales's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=erwincarlogonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" alt="erwincarlogonzales's GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=erwincarlogonzales&theme=tokyonight&hide_border=true" alt="erwincarlogonzales's GitHub Streak" />
 
