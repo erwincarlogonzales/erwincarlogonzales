@@ -34,7 +34,7 @@ Like a multiclass character:
   <a href="https://github.com/erwincarlogonzales/mldetection-android-firebase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection-android-firebase&theme=tokyonight" alt="Android ML Project">
   </a>
-  <a href="https://github.com/erwincarlogonzales/dagshub-defect-detection">
+  <a href="https://github.com/erwincarlogonzales/mldetection_data_analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_data_analysis&theme=tokyonight" alt="Empirical Analysis Project">
   </a>
 </p>
