@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance+Strategist;Academic+%26+University+Lecturer;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance;Academic+%26+University+Lecturer;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
   </a>
 </p>
 
@@ -27,11 +27,19 @@ Like a multiclass character:
 
 ### 📌 Pinned Projects Showcase
 
-Below are a few projects I've chosen to pin. They demonstrate my skills across the full stack of AI development, from edge computing to data analysis and visualization.
+<p align="center">
+  <a href="https://github.com/erwincarlogonzales/mldetection-YOLO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection-YOLO&theme=tokyonight" alt="YOLO Detection Project">
+  </a>
+  <a href="https://github.com/erwincarlogonzales/mldetection-android-firebase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection-android-firebase&theme=tokyonight" alt="Android ML Project">
+  </a>
+  <a href="https://github.com/erwincarlogonzales/dagshub-defect-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=dagshub-defect-detection&theme=tokyonight" alt="MLOps Project">
+  </a>
+</p>
 
-https://github.com/erwincarlogonzales/mldetection-YOLO
-https://github.com/erwincarlogonzales/mldetection_data_analysis
-https://github.com/erwincarlogonzales/mldetection-android-firebase
+*Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano), NLP, and more!*
 
 ---
 
