@@ -16,12 +16,12 @@
   </a>
 </p>
 
-I'm an engineer who builds AI systems, a finance bro who speaks `return on invested capital`, `discounted cashflow`, `EBITDA`, university professsor speaking in frameworks. My career is at the intersection of tech, profitability, and business frameworks.
+I'm an engineer who builds AI systems, a finance professional who models their business value, and a university professor who teaches others to build them. My career sits at the intersection of technology, profitability, and education.
 
-Like a multiclass character:
-* **AI Engineer (My Core Class):** I specialize in the full end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, Tensorflow, YOLO) to MLOps (Data Version Ctrl, MLflow) and deployment on diverse platforms, from cloud servers to edge devices like the Jetson Nano.
-* **The Investment Banker (Subclass):** My background in corporate finance and financial engineering is the lens through which I view tech. I build financial models to justify projects, assess ROI, and ensure that technical solutions create tangible business value.
-* **The Academic (Background):** As a university professor, I have a passion for simplifying complex topics. This enables me to understand concepts from a foundational level, I apply to both my engineering and financial analysis.
+Think of it like a multiclass character:
+* **AI Engineer (My Core Class):** I specialize in the complete end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, TensorFlow, YOLO) to MLOps (DVC, MLflow) and deployment across diverse platforms—from cloud servers to edge devices like Android and Jetson Nano.
+* **Investment Banker (My Subclass):** My background in corporate finance and financial engineering is the lens through which I view technology. I build financial models to justify projects, assess ROI, and ensure technical solutions create tangible business value.
+* **The Professor (My Background):** As a university professor, I simplify complex topics, publish scientific research, and use both my engineering and finance skills to teach others.
 
 ---
 
@@ -45,7 +45,7 @@ Like a multiclass character:
 
 ## 🛠️ My Tech & Domain Stack
 
-My toolkit is a blend of technologies for building intelligent systems and the financial frameworks to validate them.
+My toolkit blends technologies for building intelligent systems with the financial frameworks to validate their business impact.
 
 <table>
   <tr>
