@@ -20,8 +20,8 @@ I'm an engineer who builds AI systems, a finance professional who models their b
 
 Think of it like a multiclass character:
 * **AI Engineer (My Core Class):** I specialize in the complete end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, TensorFlow, YOLO) to MLOps (DVC, MLflow) and deployment across diverse platforms—from cloud servers to edge devices like Android and Jetson Nano.
-* **Investment Banker (My Subclass):** My background in corporate finance and financial engineering is the lens through which I view technology. I build financial models to justify projects, assess ROI, and ensure technical solutions create tangible business value.
-* **The Professor (My Background):** As a university professor, I simplify complex topics, publish scientific research, and use both my engineering and finance skills to teach others.
+* **Investment Banker (My Subclass):** My background in corporate finance and financial engineering is the lens through which I view technology. I build Discounted Cashflow (DCF) models, calculate Return on Invested Capital (ROIC) and Net Present Value (NPV) to justify AI projects, and ensure technical solutions create measurable shareholder value through rigorous financial modeling. Basically, to answer the question `Ok, how much money are we looking to make here?`
+* **The Research Professor (My Background):** I publish peer-reviewed research with statistical rigor (p-values, effect sizes, confidence intervals), design controlled experiments, and translate complex AI/finance concepts into frameworks others can actually use and replicate.
 
 ---
 
