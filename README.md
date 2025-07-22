@@ -25,8 +25,7 @@ Think of it like a multiclass character:
 
 ---
 
-### 📌 Pinned Projects Showcase
-
+📌 Pinned Projects Showcase
 <p align="center">
   <a href="https://github.com/erwincarlogonzales/mldetection-YOLO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection-YOLO&theme=tokyonight" alt="YOLO Detection Project">
@@ -38,15 +37,10 @@ Think of it like a multiclass character:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_data_analysis&theme=tokyonight" alt="Empirical Analysis Project">
   </a>
 </p>
+Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano), NLP, and more!
 
-*Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano), NLP, and more!*
-
----
-
-## 🛠️ My Tech & Domain Stack
-
+🛠️ My Tech & Domain Stack
 My toolkit blends technologies for building intelligent systems with the financial frameworks to validate their business impact.
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -88,31 +82,28 @@ My toolkit blends technologies for building intelligent systems with the financi
       </div>
     </td>
     <td valign="top" width="50%">
-        <h3 align="center">Tools & Environment</h3>
+        <h3 align="center">Data Science & AI Tools</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+        <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
       </div>
     </td>
   </tr>
 </table>
 
----
-
-## 📊 My GitHub Stats
-
+📊 My GitHub Stats
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=erwincarlogonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" alt="erwincarlogonzales's GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=erwincarlogonzales&theme=tokyonight&hide_border=true" alt="erwincarlogonzales's GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwincarlogonzales&layout=compact&theme=tokyonight&hide_border=true" alt="erwincarlogonzales's Top Languages" />
-
 </div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer"/>
 </div>
