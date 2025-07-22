@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance;Academic+%26+University+Lecturer;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Corporate+Finance+Strategy;Academic+%26+University+Lecturer;Bridging+Code%2C+Capital%2C+and+Concepts" alt="Typing SVG">
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Like a multiclass character:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection-android-firebase&theme=tokyonight" alt="Android ML Project">
   </a>
   <a href="https://github.com/erwincarlogonzales/dagshub-defect-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=dagshub-defect-detection&theme=tokyonight" alt="MLOps Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_data_analysis&theme=tokyonight" alt="Empirical Analysis Project">
   </a>
 </p>
 
