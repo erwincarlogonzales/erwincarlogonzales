@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I'm an engineer who builds AI systems, a finance professional who models their business value, and a university professor who teaches others to build them. My career sits at the intersection of technology, profitability, and education.
+I'm an engineer who builds AI systems, a finance professional who models their business value, and a university professor who teaches others to build them. My career is at the intersection of tech, profit, and education.
 
 Think of it like a multiclass character:
 * **AI Engineer (My Core Class):** I specialize in the complete end-to-end AI/ML lifecycle, from data analysis and model training (PyTorch, TensorFlow, YOLO) to MLOps (DVC, MLflow) and deployment across diverse platforms—from cloud servers to edge devices like Android and Jetson Nano. I think about `How do I get this to my users?`
