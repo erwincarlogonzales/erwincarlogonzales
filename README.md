@@ -45,7 +45,7 @@ Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano)
 ---
 
 🛠️ My Tech & Domain Stack
-My toolkit blends technologies for building intelligent systems with the financial frameworks to validate their business impact.
+My toolkit blends tech stacks for building intelligent systems with the financial frameworks to validate their business impact.
 <table>
   <tr>
     <td valign="top" width="50%">
