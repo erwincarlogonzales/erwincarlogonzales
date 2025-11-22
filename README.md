@@ -37,13 +37,13 @@ Think of it like a multiclass character:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_data_analysis&theme=tokyonight" alt="Empirical Analysis Project">
   </a>
     <a href="https://github.com/erwincarlogonzales/mldetection_jetson">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_jetson&theme=tokyonight" alt="Edge device (Jetson Nano) ML Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_jetson&theme=tokyonight" alt="Edge AI (Jetson Nano) ML Project">
   </a>
     <a href="https://github.com/erwincarlogonzales/airline_customer_reviews">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=airline_customer_reviews&theme=tokyonight" alt="Data Science Classification App">
   </a>
 </p>
-Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano), NLP, and more!
+Be sure to check out my other pinned repos for projects on Edge AI (Jetson Nano) and more!
 
 ---
 
