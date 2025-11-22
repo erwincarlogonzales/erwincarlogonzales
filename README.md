@@ -36,6 +36,9 @@ Think of it like a multiclass character:
   <a href="https://github.com/erwincarlogonzales/mldetection_data_analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_data_analysis&theme=tokyonight" alt="Empirical Analysis Project">
   </a>
+    <a href="https://github.com/erwincarlogonzales/mldetection_jetson">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=mldetection_jetson&theme=tokyonight" alt="Edge device (Jetson Nano) ML Project">
+  </a>
     <a href="https://github.com/erwincarlogonzales/airline_customer_reviews">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erwincarlogonzales&repo=airline_customer_reviews&theme=tokyonight" alt="Data Science Classification App">
   </a>
